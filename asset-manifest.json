@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mohtawfik/static/css/main.6263581e.css",
-    "main.js": "/Mohtawfik/static/js/main.1ecf83eb.js",
-    "static/js/453.3a963d7b.chunk.js": "/Mohtawfik/static/js/453.3a963d7b.chunk.js",
-    "static/media/imageReSize.webp": "/Mohtawfik/static/media/imageReSize.cb2a705d74a2ad16a451.webp",
-    "index.html": "/Mohtawfik/index.html",
-    "main.6263581e.css.map": "/Mohtawfik/static/css/main.6263581e.css.map",
-    "main.1ecf83eb.js.map": "/Mohtawfik/static/js/main.1ecf83eb.js.map",
-    "453.3a963d7b.chunk.js.map": "/Mohtawfik/static/js/453.3a963d7b.chunk.js.map"
+    "main.css": "/Image-Size-Reducer/static/css/main.6263581e.css",
+    "main.js": "/Image-Size-Reducer/static/js/main.cf84923e.js",
+    "static/js/453.3a963d7b.chunk.js": "/Image-Size-Reducer/static/js/453.3a963d7b.chunk.js",
+    "static/media/imageReSize.webp": "/Image-Size-Reducer/static/media/imageReSize.cb2a705d74a2ad16a451.webp",
+    "index.html": "/Image-Size-Reducer/index.html",
+    "main.6263581e.css.map": "/Image-Size-Reducer/static/css/main.6263581e.css.map",
+    "main.cf84923e.js.map": "/Image-Size-Reducer/static/js/main.cf84923e.js.map",
+    "453.3a963d7b.chunk.js.map": "/Image-Size-Reducer/static/js/453.3a963d7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6263581e.css",
-    "static/js/main.1ecf83eb.js"
+    "static/js/main.cf84923e.js"
   ]
 }

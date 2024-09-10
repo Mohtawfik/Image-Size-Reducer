@@ -1,3 +1,5 @@
+Please check the functionality of this website [Image Trim](https://mohtawfik.github.io/Image-Size-Reducer/)
+
 # React Image Resizer
 
 ## Description
@@ -15,15 +17,24 @@ This project is a React application that demonstrates how to resize images using
 Follow these steps to set up your development environment:
 
 1. Clone the repository:
-   git clone https://github.com/username/repository-name.git
-2. Navigate to the project directory:
-   cd repository-name
+   ```bash
+   git clone https://github.com/Mohtawfik/Image-Size-Reducer.git
+   ```
+3. Navigate to the project directory:
+   ```bash
+   cd Image-Size-Reducer
+   ```
 4. Install dependencies:
+   ```bash
    npm install
+   ```
 6. Start the development server:
+   ```bash
    npm start
+   ```
 
-##Usage
+## Usage
+
 To use the application:
 
 Navigate to the HowTo section in the application.
@@ -32,7 +43,8 @@ Observe the resized image and read the instructions provided on how to reduce im
 Contributing
 We welcome contributions! To contribute to this project:
 
-##Fork the repository.
+## Fork the repository
+
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
